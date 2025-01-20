@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Area"
-AuthUserFile https://vmvnyxmymdex.github.io/school60/.htpasswd
-Require valid-user
